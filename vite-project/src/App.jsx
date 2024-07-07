@@ -1,5 +1,5 @@
 import './App.css'
-import './components/ContactList'
+import ContactList from './components/ContactList';
 
 export default function App() {
   return (
